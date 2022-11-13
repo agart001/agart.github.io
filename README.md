@@ -27,7 +27,7 @@ A trivia game where the player is asked a trivia question and is presented with 
 A console line project focused on variable manipulation, conversion, and recursion.
 
 ### Premise: 
-The program checks if a pot has reached it's minimum diameter, if it has then the it draws the lid and exits, and if it has not then it draws the current diameter then shrinks the diameter by 2/3. The program then calls itself again and loops until the minimum diameter, the lid, has ben reached. Demostrating recursion.
+The program checks if a pot has reached it's minimum diameter, if it has then the it draws the lid and exits, and if it has not then it draws the current diameter then shrinks the diameter by 2/3. The program then calls itself again and loops until the minimum diameter, the lid, has been reached. Demostrating recursion.
 
 [Dogon Pot](https://github.com/agart001/agart.github.io/tree/HW-projects)
 
