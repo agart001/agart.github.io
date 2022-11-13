@@ -9,4 +9,4 @@ The Ultimate Sandwich Shop is a game set in a sandwich shop which prides itself 
 
 Midterm Project Link
 
-[I'm a relative reference to a repository file](../blob//tree/midterm-project)
+[I'm a relative reference to a repository file](https://github.com/agart001/agart.github.io/tree/midterm-project)
