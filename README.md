@@ -16,7 +16,7 @@ A console line game focuse input manipulation, array management, and win condito
 ### Description:
 A console line game focuse input manipulation, array management, and win conditons.
 
-###Premise
+### Premise
 A trivia game where the player is asked a trivia question and is presented with 3 answers to choose from. The game takes the player's input, judges it's correctness. Two fails result in a game over, 4 sucesses result in winning the game. The player can play restart the game.
 
 [Trivia Game](https://github.com/agart001/agart.github.io/tree/HW-projects)
